@@ -1,17 +1,18 @@
-*{
-    padding: 0;
-    margin: 0;
-
+/* footer */
+.footer {
+    background-color: rgb(190, 166, 166);
 }
 
-h1 {
+.footer-derechos {
+    padding: 10px;
+    background-color: #e2dcdc;
     text-align: center;
-    background-color: blueviolet;
-    color: white;
 }
 
-h3 {
-    text-align: center;
-    background-color: darksalmon ;
-    color: white;
+.imagen-social {
+    margin: 25px;
+}
+
+.link-social {
+    text-decoration: none;
 }
