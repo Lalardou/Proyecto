@@ -1,0 +1,17 @@
+body{
+background-image: url(/Proyecto/imagenes/logos/fondo.webp);
+}
+
+.Titulo {
+    margin-top: 5%;
+  color: #FF198F;  
+  background-color: #3b3b3b;
+  text-decoration:white;
+  text-align: center;
+}
+
+label{
+    background-color:#727272;
+    color: #ffff;
+    font-family: 'Poppins', sans-serif;
+}
