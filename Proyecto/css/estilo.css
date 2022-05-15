@@ -16,3 +16,11 @@
 .link-social {
     text-decoration: none;
 }
+
+.btn
+{
+    
+        background-color: rgb(73, 73, 73); 
+        border: none;
+       color:#fff;
+      }
